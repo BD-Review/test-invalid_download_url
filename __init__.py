@@ -12,7 +12,7 @@
 # along with this program. If not, see <http://www.gnu.org/licenses/>.
 
 bl_info = {
-    "name": "Test [NAME]",
+    "name": "Test Invalid Download Url",
     "author": "BD",
     "description": "",
     "blender": (2, 80, 0),
@@ -20,7 +20,7 @@ bl_info = {
     "location": "",
     "warning": "",
     "tracker_url": "https://github.com/BD-Review/tests_basis/issues",
-    "endpoint_url": "https://raw.githubusercontent.com/BD-Review/Test_[NAME]/main/endpoint.json",
+    "endpoint_url": "https://raw.githubusercontent.com/BD-Review/test-invalid_download_url/main/endpoint.json",
     "category": "Generic"
 }
 
